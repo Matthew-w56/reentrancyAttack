@@ -1,8 +1,6 @@
 # reentrancyAttack
  Contracts set up to demonstrate a Reentrancy Attack in a Blockchain environment
 
-(Correct language: Solidity 0.8.9)
-
 For those unfamiliar with Blockchain applications, see the "contracts" folder for
 the source code.
 
